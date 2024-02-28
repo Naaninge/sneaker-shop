@@ -63,5 +63,3 @@ I found the following resources particularly helpful during the development proc
 
 Feel free to explore the solution and provide feedback. Happy coding! 🚀
 ```
-
-Replace the placeholder URLs with the actual links and adjust the content as needed.
