@@ -1,0 +1,9 @@
+refractor in css e..g small image or small image modal
+learn about the box shadow
+remove the aside from body and place in main
+opacity color to images white
+//local storage will be for cart
+1. create function getElement
+2. create a function for price
+3. create cart
+4. modal shadow move
