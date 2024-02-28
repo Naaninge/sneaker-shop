@@ -62,4 +62,3 @@ I found the following resources particularly helpful during the development proc
 - Frontend Mentor Profile - [Naani](https://www.frontendmentor.io/profile/Naaninge)
 
 Feel free to explore the solution and provide feedback. Happy coding! 🚀
-```
