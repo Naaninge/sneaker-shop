@@ -2,9 +2,6 @@
 
 ![Design preview for the E-commerce product page coding challenge](./design/desktop-preview.jpg)
 
-Certainly! Here's the structured markdown for your README:
-
-```markdown
 # Frontend Mentor - E-commerce Product Page Solution
 
 Welcome to my solution for the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). This project provided a valuable opportunity for me to enhance my coding skills by tackling a realistic project.
