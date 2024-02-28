@@ -27,9 +27,8 @@ The screenshot showcases the visual representation of the implemented solution.
 
 ### Links
 
-- [Solution GitHub Repository](https://github.com/Naaninge/Front-end)
-- [Live Site](https://your-live-site-url.com) (Replace with your live site URL)
-
+- [Solution GitHub Repository](https://github.com/Naaninge/sneaker-shop)
+- [Live Site](https://naaninge.github.io/sneaker-shop/)
 ## My Process
 
 ### Built With
@@ -58,7 +57,7 @@ I found the following resources particularly helpful during the development proc
 
 ## Author
 
-- Website - [Naaninge Tomanga](https://github.com/Naaninge/Front-end)
+- Website - [Naaninge Tomanga](https://github.com/Naaninge/sneaker-shop)
 - Frontend Mentor Profile - [Naani](https://www.frontendmentor.io/profile/Naaninge)
 
 Feel free to explore the solution and provide feedback. Happy coding! 🚀
