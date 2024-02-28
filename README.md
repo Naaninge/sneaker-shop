@@ -21,7 +21,7 @@ The primary objectives for users interacting with the site are:
 
 ### Screenshot
 
-![Solution Screenshot](./screenshot.jpg)
+![Solution Screenshot](./screenshot.png)
 
 The screenshot showcases the visual representation of the implemented solution.
 
